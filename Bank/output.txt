@@ -1,0 +1,6 @@
+//Accounts
+//acct,<type>,<acctNum>,<balance>
+acct,0,35416,20210
+acct,1,52461,50
+acct,0,64132,2125
+acct,1,51313,0
