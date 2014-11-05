@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1415222499 source:c:\users\alex euzent\code\cards\card.cpp
+	"card.h"
+	<iostream>
+
+1415222499 c:\users\alex euzent\code\cards\card.h
+	<iostream>
+
+1415223305 source:c:\users\alex euzent\code\cards\deck.cpp
+	"deck.h"
+	"card.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1415222958 c:\users\alex euzent\code\cards\deck.h
+	<vector>
+	"card.h"
+
+1415222499 source:c:\users\alex euzent\code\cards\hand.cpp
+	"hand.h"
+	"deck.h"
+	"card.h"
+	<iostream>
+
+1415222500 c:\users\alex euzent\code\cards\hand.h
+	<vector>
+	"deck.h"
+	"card.h"
+
+1415223254 source:c:\users\alex euzent\code\cards\main.cpp
+	<iostream>
+	"deck.h"
+	"hand.h"
+	"card.h"
+	<stdlib.h>
+
